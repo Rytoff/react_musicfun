@@ -1,0 +1,8 @@
+{
+  // Обязательная настройка для работы TS. Должна быть true по умолчанию.
+  "typescript.validate.enable": true,
+  
+  // Экспериментальная настройка, которая часто помогает заставить TS
+  // сервер сканировать весь проект, а не только открытые файлы.
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true
+}
